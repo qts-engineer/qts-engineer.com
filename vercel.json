@@ -2,9 +2,6 @@
   "buildCommand": "NODE_OPTIONS=--openssl-legacy-provider npm run build",
   "devCommand": "npm run dev",
   "installCommand": "npm install",
-  "framework": "create-react-app",
-  "engines": {
-    "node": "14.x"
-  }
+  "framework": "create-react-app"
 }
 
