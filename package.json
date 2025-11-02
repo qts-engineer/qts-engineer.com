@@ -1,6 +1,6 @@
 {
-  "name": "yodkwtf.com",
-  "homepage": "https://yodkwtf.com/",
+  "name": "my-portfolio",
+  "homepage": "https://qts-engineer.com/",
   "description": "My portfolio website built with React,js using modern react hooks with context API and Airtable CMS.",
   "version": "0.1.0",
   "private": true,
@@ -46,10 +46,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yodkwtf/yodkwtf.com"
+    "url": "https://github.com/qts-engineer/qts-engineer.com"
   },
   "bugs": {
-    "url": "https://github.com/yodkwtf/yodkwtf.com/issues"
+    "url": "https://github.com/qts-engineer/qts-engineer.com/issues"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",

@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 // import pages
 import { HomePage, ContactPage, ProjectsPage, ErrorPage, Links } from './pages';
 // import components
-import { Head, Contact, Footer, Widget, ScrollToTop } from './components';
+import { Head, Contact, Footer, ScrollToTop } from './components';
 
 const App = () => {
   return (
@@ -30,7 +30,7 @@ const App = () => {
         </Switch>
         <Contact />
         <Footer />
-        <Widget />
+        {/* <Widget /> */}
       </Router>
     </main>
   );

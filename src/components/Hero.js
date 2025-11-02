@@ -15,14 +15,12 @@ export const Hero = () => {
           {/* hero-info */}
           <article className="hero-info">
             <h1 id="my-name">
-              hey,<span> i'm durgesh</span>
+              hey,<span> i'm here</span>
             </h1>
-            <p>
-              A Full-Stack Developer with 2.5+ years of experience. Currently,
-              I'm working as a <strong>Software Developer II</strong> at{' '}
-              <strong>Konrad Group</strong>, where I specialize in developing
-              highly optimized software solutions and web applications.
-            </p>
+            <h2>
+              Welcome to my portfolio! 👨‍💻
+            </h2>
+            <p></p>
             <div className="hero-btn-container">
               <a
                 href="#projects"
@@ -33,7 +31,7 @@ export const Hero = () => {
                 projects <FaCode className="fa" />
               </a>
               <a
-                href="mailto:48durgesh.chaudhary@gmail.com"
+                href="mailto:idea.ict.dev@gmail.com"
                 className="btn hero-btn"
                 title="Email Me Now"
               >

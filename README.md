@@ -21,7 +21,7 @@ To install and run the website locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/yodkwtf/yodkwtf.com.git
+   git clone https://github.com/qts-engineer/qts-engineer.com.git
    ```
 
 2. Install the required packages using npm or yarn:

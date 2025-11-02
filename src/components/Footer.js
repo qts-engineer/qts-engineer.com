@@ -18,7 +18,7 @@ export const Footer = () => {
         <p className="footer-text">
           Find an issue with this page?{' '}
           <a
-            href="https://github.com/yodkwtf/yodkwtf.com"
+            href="https://github.com/qts-engineer/qts-engineer.com"
             target="_blank"
             rel="noreferrer"
             title="Full Source Code"
@@ -38,12 +38,12 @@ export const Footer = () => {
           </span>
           &nbsp;by&nbsp;
           <a
-            href="https://twitter.com/yodkwtf"
+            href="https://twitter.com"
             target="_blank"
             rel="noreferrer"
             title="My Twitter Account"
           >
-            Durgesh
+            QTS-Engineer
           </a>
         </p>
       </div>

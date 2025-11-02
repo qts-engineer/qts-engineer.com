@@ -51,7 +51,7 @@ const ProjectsPage = () => {
   return (
     <>
       <Head
-        title={'Durgesh Chaudhary - Software Developer | Projects'}
+        title={'QTS-Engineer - Software Developer | Projects'}
         description={
           'This is a collection of some of my favorite projects. Built with a wide variety of tech including React.js, Next.js, Javascript, TypeScript, Nodejs, MongoDB, Git & GitHub, MERN stack, Figma, GraphQL, Gatsby, Redux, HTML, CSS & its frameworks, SEO Fundamentals, Headless CMSs, Python.'
         }
@@ -75,7 +75,7 @@ const ProjectsPage = () => {
               <br />
               If you are interested in seeing all my projects then please
               consider following me on{' '}
-              <a href="https://github.com/yodkwtf" title="My GitHub Profile">
+              <a href="https://github.com/qts-engineer" title="My GitHub Profile">
                 github
               </a>
               .

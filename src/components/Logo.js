@@ -7,7 +7,7 @@ const Logo = () => {
   return (
     <Link to="/" className="logo">
       <img src={logoSVG} alt="yodkwtf" />
-      <h5>YODKWTF</h5>
+      <h5>QTS-Engineer</h5>
     </Link>
   );
 };

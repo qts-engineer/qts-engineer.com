@@ -8,7 +8,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800477/yodkwtf.com/projects/Screenshot_4_-min_e9runx.jpg',
       url: 'https://landingpageanimations-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/random-cool-projects/tree/main/02-smooth-page-transiitons',
+        'https://github.com/qts-engineer/random-cool-projects/tree/main/02-smooth-page-transiitons',
     },
     {
       id: 2,
@@ -18,7 +18,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800478/yodkwtf.com/projects/Screenshot_2_-min_my526g.jpg',
       url: 'https://financelogger-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/typescript-projects/tree/main/01-finance-logger',
+        'https://github.com/qts-engineer/typescript-projects/tree/main/01-finance-logger',
     },
     {
       id: 3,
@@ -27,7 +27,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800480/yodkwtf.com/projects/newwwwww_dxihfk.webp',
       url: 'https://chat-app-dk.onrender.com/',
-      github: 'https://github.com/yodkwtf/nodejs-chat-app',
+      github: 'https://github.com/qts-engineer/nodejs-chat-app',
     },
     {
       id: 4,
@@ -37,7 +37,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800482/yodkwtf.com/projects/Capture-min_ilgnnb.png',
       url: 'https://merry-christmas-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/html-css-projects/tree/main/07)%20Christmas%20Card',
+        'https://github.com/qts-engineer/html-css-projects/tree/main/07)%20Christmas%20Card',
     },
     {
       id: 5,
@@ -46,7 +46,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800483/yodkwtf.com/projects/cinematica_o1lctj.png',
       url: 'https://cinematica-mern.vercel.app/',
-      github: 'https://github.com/yodkwtf/cinematica-mern',
+      github: 'https://github.com/qts-engineer/cinematica-mern',
     },
     {
       id: 6,
@@ -56,7 +56,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800489/yodkwtf.com/projects/Screenshot_239_-min_cxwzeg.webp',
       url: 'https://colorgenerator-react-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/reactjs-projects/tree/main/02)%20Color%20Generator',
+        'https://github.com/qts-engineer/reactjs-projects/tree/main/02)%20Color%20Generator',
     },
     {
       id: 7,
@@ -66,7 +66,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800492/yodkwtf.com/projects/Screenshot_231_-min_rjjebg.webp',
       url: 'https://countdowntimer-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/javascript-projects/tree/main/02)%20Countdown%20Timer',
+        'https://github.com/qts-engineer/javascript-projects/tree/main/02)%20Countdown%20Timer',
     },
     {
       id: 8,
@@ -76,7 +76,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800495/yodkwtf.com/projects/Screenshot_238_-min_upc8hr.webp',
       url: 'https://currencyconverter-react-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/reactjs-projects/tree/main/06)%20Currency%20Converter',
+        'https://github.com/qts-engineer/reactjs-projects/tree/main/06)%20Currency%20Converter',
     },
     {
       id: 9,
@@ -103,7 +103,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800497/yodkwtf.com/projects/devcut-min_uezdyz.png',
       url: 'https://devcut.netlify.app/',
-      github: 'https://github.com/yodkwtf/sass-101',
+      github: 'https://github.com/qts-engineer/sass-101',
     },
     {
       id: 12,
@@ -112,7 +112,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800497/yodkwtf.com/projects/eeeeee-min_t14gwz.png',
       url: 'https://e-commerce-api-dk.onrender.com/',
-      github: 'https://github.com/yodkwtf/nodejs-e-commerce-api',
+      github: 'https://github.com/qts-engineer/nodejs-e-commerce-api',
     },
     {
       id: 13,
@@ -121,7 +121,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800500/yodkwtf.com/projects/HikYEfjNN6qlhRR0vHshbPMADqbS0ZGp8K-NWATO49A-min_yri78h.png',
       url: 'https://furnitureworld-react-dk.netlify.app/',
-      github: 'https://github.com/yodkwtf/furnitureworld-with-reactjs',
+      github: 'https://github.com/qts-engineer/furnitureworld-with-reactjs',
     },
     {
       id: 14,
@@ -131,7 +131,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800501/yodkwtf.com/projects/fb-card_d1golz.webp',
       url: 'https://fbcard-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/html-css-projects/tree/main/06)%20Facebook%20Card',
+        'https://github.com/qts-engineer/html-css-projects/tree/main/06)%20Facebook%20Card',
     },
     {
       id: 15,
@@ -141,7 +141,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800503/yodkwtf.com/projects/Screenshot_225_-min_nfivlt.webp',
       url: 'https://glassuiwebsite-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/html-css-projects/tree/main/03)%20Glass%20UI%20Website',
+        'https://github.com/qts-engineer/html-css-projects/tree/main/03)%20Glass%20UI%20Website',
     },
     {
       id: 16,
@@ -150,7 +150,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800505/yodkwtf.com/projects/Screenshot_451_xgjsfi.png',
       url: 'https://goalstracker-dk.onrender.com/',
-      github: 'https://github.com/yodkwtf/goals-tracker-mern',
+      github: 'https://github.com/qts-engineer/goals-tracker-mern',
     },
     {
       id: 17,
@@ -168,7 +168,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800509/yodkwtf.com/projects/google-clone_sdu5fm.webp',
       url: 'https://googlesearchclone-react-dk.netlify.app/',
-      github: 'https://github.com/yodkwtf/googlesearchclone-with-reactjs',
+      github: 'https://github.com/qts-engineer/googlesearchclone-with-reactjs',
     },
     {
       id: 19,
@@ -186,7 +186,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800513/yodkwtf.com/projects/Screenshot_5_-min_jk6xhj.jpg',
       url: 'https://homemakers-bootstrap-dk.netlify.app/',
-      github: 'https://github.com/yodkwtf/bootstrap-v5-homemakers-website',
+      github: 'https://github.com/qts-engineer/bootstrap-v5-homemakers-website',
     },
     {
       id: 21,
@@ -196,7 +196,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800515/yodkwtf.com/projects/Screenshot_232_-min_idglyk.webp',
       url: 'https://javascriptclock-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/javascript-projects/tree/main/05)%20Javascript%20Clock',
+        'https://github.com/qts-engineer/javascript-projects/tree/main/05)%20Javascript%20Clock',
     },
     {
       id: 22,
@@ -206,7 +206,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800520/yodkwtf.com/projects/music-app_pypkzb.webp',
       url: 'https://musicapp-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/javascript-projects/tree/main/04)%20Music%20App',
+        'https://github.com/qts-engineer/javascript-projects/tree/main/04)%20Music%20App',
     },
     {
       id: 23,
@@ -215,7 +215,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800518/yodkwtf.com/projects/next_tube-min_an7iyf.png',
       url: 'https://nexttube-dk.vercel.app/',
-      github: 'https://github.com/yodkwtf/next-tube',
+      github: 'https://github.com/qts-engineer/next-tube',
     },
     {
       id: 24,
@@ -224,7 +224,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800522/yodkwtf.com/projects/Screenshot_2023-09-23_223421-min_zkvto4.png',
       url: 'https://nexus-dk.vercel.app/',
-      github: 'https://github.com/yodkwtf/nexus-chat-application',
+      github: 'https://github.com/qts-engineer/nexus-chat-application',
     },
     {
       id: 25,
@@ -233,7 +233,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800527/yodkwtf.com/projects/Screenshot_620_-min_hxpdxq.png',
       url: 'https://www.codepencil.me/',
-      github: 'https://github.com/yodkwtf/codepencil-with-react',
+      github: 'https://github.com/qts-engineer/codepencil-with-react',
     },
     {
       id: 26,
@@ -242,7 +242,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800529/yodkwtf.com/projects/chatterbot_jrcxfo.png',
       url: 'https://chatterbot-dk.netlify.app/',
-      github: 'https://github.com/yodkwtf/chatterbot-with-javascript',
+      github: 'https://github.com/qts-engineer/chatterbot-with-javascript',
     },
     {
       id: 27,
@@ -252,7 +252,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800534/yodkwtf.com/projects/Screenshot_237_-min_tc9en4.webp',
       url: 'https://photoeditor-react-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/reactjs-projects/tree/main/05)%20Photo%20Editor',
+        'https://github.com/qts-engineer/reactjs-projects/tree/main/05)%20Photo%20Editor',
     },
     {
       id: 28,
@@ -261,7 +261,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800535/yodkwtf.com/projects/Screenshot_228_-min_vjtdwd.webp',
       url: 'https://pigdicegame-dk.netlify.app/',
-      github: 'https://github.com/yodkwtf/pigdicegame-with-javascript',
+      github: 'https://github.com/qts-engineer/pigdicegame-with-javascript',
     },
     {
       id: 29,
@@ -270,7 +270,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800536/yodkwtf.com/projects/Screenshot_223_-min_vnramq.webp',
       url: 'https://portfolio-v2-dk.netlify.app/',
-      github: 'https://github.com/yodkwtf/portfolio-v2-with-html-css-js',
+      github: 'https://github.com/qts-engineer/portfolio-v2-with-html-css-js',
     },
     {
       id: 30,
@@ -279,7 +279,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800537/yodkwtf.com/projects/Screenshot_234_-min_otc6qe.webp',
       url: 'https://quizfeed-react-dk.netlify.app/',
-      github: 'https://github.com/yodkwtf/quizfeed-with-reactjs',
+      github: 'https://github.com/qts-engineer/quizfeed-with-reactjs',
     },
     {
       id: 31,
@@ -289,7 +289,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800541/yodkwtf.com/projects/Screenshot_224_-min_ggd11w.webp',
       url: 'https://reduxwebsite-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/html-css-projects/tree/main/02)%20Redux%20Website',
+        'https://github.com/qts-engineer/html-css-projects/tree/main/02)%20Redux%20Website',
     },
     {
       id: 32,
@@ -298,7 +298,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800542/yodkwtf.com/projects/Screenshot_229_-min_uzpdod.webp',
       url: 'https://rockpaperscissor-dk.netlify.app/',
-      github: 'https://github.com/yodkwtf/rockpaperscissor-with-javascript',
+      github: 'https://github.com/qts-engineer/rockpaperscissor-with-javascript',
     },
     {
       id: 33,
@@ -307,7 +307,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800545/yodkwtf.com/projects/saints_of_show-min_by0kfz.jpg',
       url: 'https://saintsofshows.netlify.app/',
-      github: 'https://github.com/yodkwtf/saintsofshows-html-css',
+      github: 'https://github.com/qts-engineer/saintsofshows-html-css',
     },
     {
       id: 34,
@@ -317,7 +317,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800548/yodkwtf.com/projects/spotify-min_qwxwls.png',
       url: 'https://spotifypage-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/html-css-projects/tree/main/01)%20Spotify%20Page',
+        'https://github.com/qts-engineer/html-css-projects/tree/main/01)%20Spotify%20Page',
     },
     {
       id: 35,
@@ -327,7 +327,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800551/yodkwtf.com/projects/Screenshot_226_-min_j6m11p.webp',
       url: 'https://svgshapesanimation-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/html-css-projects/tree/main/05)%20SVG%20Shapes%20Animation',
+        'https://github.com/qts-engineer/html-css-projects/tree/main/05)%20SVG%20Shapes%20Animation',
     },
     {
       id: 36,
@@ -337,7 +337,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800551/yodkwtf.com/projects/Screenshot_3_-min_zopmya.jpg',
       url: 'https://terminal-style-landing-page-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/random-cool-projects/tree/main/01-terminal-style-landing-page',
+        'https://github.com/qts-engineer/random-cool-projects/tree/main/01-terminal-style-landing-page',
     },
     {
       id: 37,
@@ -346,7 +346,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800554/yodkwtf.com/projects/Screenshot_221_-min_kf6swe.webp',
       url: 'https://titansdigital.netlify.app/',
-      github: 'https://github.com/yodkwtf/titansdigital-html-css',
+      github: 'https://github.com/qts-engineer/titansdigital-html-css',
     },
     {
       id: 38,
@@ -355,7 +355,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800556/yodkwtf.com/projects/Screenshot_1_-min_qp62rw.png',
       url: 'https://ngchecklist-dk.netlify.app/',
-      github: 'https://github.com/yodkwtf/ng-checklist-angular',
+      github: 'https://github.com/qts-engineer/ng-checklist-angular',
     },
     {
       id: 39,
@@ -374,7 +374,7 @@ const AIRTABLE_DATA = {
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800560/yodkwtf.com/projects/Screenshot_233_-min_ag7a96.webp',
       url: 'https://voicerecognitionapp-dk.netlify.app/',
       github:
-        'https://github.com/yodkwtf/javascript-projects/tree/main/06)%20Voice%20Recognition%20App',
+        'https://github.com/qts-engineer/javascript-projects/tree/main/06)%20Voice%20Recognition%20App',
     },
     {
       id: 41,
@@ -383,7 +383,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800562/yodkwtf.com/projects/weather-app_y5pvy2.webp',
       url: 'https://weather-app-dk.onrender.com/',
-      github: 'https://github.com/yodkwtf/nodejs-weather-app',
+      github: 'https://github.com/qts-engineer/nodejs-weather-app',
     },
     {
       id: 42,
@@ -401,7 +401,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800565/yodkwtf.com/projects/young_at_art-min_yh9lnp.jpg',
       url: 'https://youngatart.netlify.app/',
-      github: 'https://github.com/yodkwtf/youngatart-html-css',
+      github: 'https://github.com/qts-engineer/youngatart-html-css',
     },
     {
       id: 44,
@@ -410,7 +410,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800485/yodkwtf.com/projects/og-image_kvpzln.png',
       url: 'https://classicgym.netlify.app/',
-      github: 'https://github.com/yodkwtf/classic-gym-svelte-kit',
+      github: 'https://github.com/qts-engineer/classic-gym-svelte-kit',
     },
     {
       id: 45,
@@ -418,8 +418,8 @@ const AIRTABLE_DATA = {
       stack: 'react native',
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800525/yodkwtf.com/projects/preview_dqxn3q.jpg',
-      url: 'https://github.com/yodkwtf/nimbus-react-native',
-      github: 'https://github.com/yodkwtf/nimbus-react-native',
+      url: 'https://github.com/qts-engineer/nimbus-react-native',
+      github: 'https://github.com/qts-engineer/nimbus-react-native',
     },
     {
       id: 46,
@@ -427,8 +427,8 @@ const AIRTABLE_DATA = {
       stack: 'react native',
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1711800517/yodkwtf.com/projects/MixCollage-09-Mar-2024-03-48-AM-7986_1_-min_vssckx.jpg',
-      url: 'https://github.com/yodkwtf/joblink-react-native',
-      github: 'https://github.com/yodkwtf/joblink-react-native',
+      url: 'https://github.com/qts-engineer/joblink-react-native',
+      github: 'https://github.com/qts-engineer/joblink-react-native',
     },
     {
       id: 47,
@@ -437,7 +437,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1754175462/yodkwtf.com/projects/og-image-min_kmmsni.png',
       url: 'https://thetechblog-dk.netlify.app/',
-      github: 'https://github.com/yodkwtf/the-astro-tech-blog',
+      github: 'https://github.com/qts-engineer/the-astro-tech-blog',
     },
     {
       id: 48,
@@ -446,7 +446,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1754175463/yodkwtf.com/projects/thumbnail-min_hazyzb.jpg',
       url: 'https://ed-vault.up.railway.app/',
-      github: 'https://github.com/yodkwtf/ed-vault-nextjs',
+      github: 'https://github.com/qts-engineer/ed-vault-nextjs',
     },
     {
       id: 49,
@@ -455,7 +455,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1754175463/yodkwtf.com/projects/cover_gz8dqs.jpg',
       url: 'https://cardzire-dk.netlify.app/',
-      github: 'https://github.com/yodkwtf/car-dzire-javascript',
+      github: 'https://github.com/qts-engineer/car-dzire-javascript',
     },
     {
       id: 50,
@@ -464,7 +464,7 @@ const AIRTABLE_DATA = {
       imgUrl:
         'https://res.cloudinary.com/dds18bzdy/image/upload/v1754175463/yodkwtf.com/projects/cover-min_lj5yrz.png',
       url: 'https://gigsvue.netlify.app/',
-      github: 'https://github.com/yodkwtf/gigsvue-with-vuejs',
+      github: 'https://github.com/qts-engineer/gigsvue-with-vuejs',
     },
   ],
 
@@ -478,7 +478,7 @@ const AIRTABLE_DATA = {
       isClientWork: false,
       stack: ['Reactjs', 'nodejs', 'express', 'MongoDB', 'JWT', 'Swagger'],
       url: 'https://cinematica-mern.vercel.app/',
-      github: 'https://github.com/yodkwtf/cinematica-mern',
+      github: 'https://github.com/qts-engineer/cinematica-mern',
     },
     {
       id: 2,
@@ -513,7 +513,7 @@ const AIRTABLE_DATA = {
         'Prisma',
       ],
       url: 'https://nexus-dk.vercel.app/',
-      github: 'https://github.com/yodkwtf/nexus-chat-application',
+      github: 'https://github.com/qts-engineer/nexus-chat-application',
     },
   ],
 

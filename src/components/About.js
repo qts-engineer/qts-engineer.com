@@ -18,7 +18,7 @@ export const About = () => {
           <div className="about-img">
             <img
               src={aboutImg}
-              alt="Durgesh"
+              alt="QTS-Engineer"
               className="about-image"
               loading="lazy"
             />
@@ -26,28 +26,28 @@ export const About = () => {
         </article>
 
         <article className="about-info">
-          <p>
-            {/* text */}
-            I'm <strong>Durgesh</strong>, a{' '}
-            <strong> Full Stack Developer</strong> with over{' '}
-            <strong>2.5 years of professional experience</strong> and a
-            portfolio of <strong>120+ projects</strong>, including web apps,
-            CRUD-based blogs, e-commerce platforms, landing pages, portfolio
-            websites, and a dozen production-level client websites. I have
-            extensive expertise in <strong>JavaScript</strong> and its
-            frameworks—especially <strong>React.js</strong> and{' '}
-            <strong>Node.js</strong>.
-            <br />
-            <br />
-            Outside of work, I'm a massive movie geek—from thrillers to
-            tearjerkers to “so-bad-they're-good” action flicks, I probably have
-            a Letterboxd review for it. When I'm not bingeing films or arguing
-            over IMDb ratings, you'll catch me watching cricket, cruising
-            through Los Santos in GTA V, or missing open goals in Rocket League
-            (blame lag, obviously). <br /> <br />
-            If you ever want to talk tech, cricket stats, DCEU, or whether
-            Trevor from GTA is misunderstood—I'm your guy.
-          </p>
+        <p>
+          {/* text */}
+          <strong>A Full Stack Engineer</strong> with over{' '}
+          <strong>9 years of experience</strong> building scalable, modern applications across{' '}
+          <strong>C#/.NET, TypeScript, JavaScript and it's performant frameworks including React, Vue, Angular and PHP/Laravel, Node, ASP.NET,</strong> and{' '}
+          <strong>Python</strong>. Over the years, I've delivered <strong>120+ projects</strong> from
+          e-commerce platforms and CRUD apps to production-level client systems and I love transforming
+          legacy systems into fast, clean, high-performing applications using solid engineering practices,
+          <strong> Agile methodologies</strong>, and strong <strong>team collaboration</strong>.
+          <br />
+          <br />
+          I've worked across <strong>e-commerce, SaaS, fintech, and healthcare</strong>, always focused on
+          shipping real-world value and building software that feels great to use while solving meaningful
+          problems. Whether it's modernizing outdated systems or architecting new ones, I enjoy partnering
+          with cross-functional teams, working iteratively, and delivering solutions that scale.
+          <br />
+          <br />
+          Outside of coding, I'm probably overanalyzing films, debating IMDb scores, watching cricket, or
+          trying to convince Rocket League teammates that the lag was real. And yes, {' '}
+          <strong>Trevor from GTA is absolutely misunderstood.</strong>
+        </p>
+
 
           {/* stack */}
           <Skills />

@@ -24,7 +24,7 @@ const Links = () => {
   return (
     <>
       <Head
-        title={'Durgesh Chaudhary - Software Developer | Links & Resources'}
+        title={'QTS-Engineer - Software Developer | Links & Resources'}
         description={`All the various social and other necessary links to find me and my work online. It has my portfolio website, my youtube channel, my latest work, my social media links, and my resume.`}
         image={`/covers/resources.png`}
       />
@@ -36,9 +36,9 @@ const Links = () => {
         <section className="section">
           <article className="links-info">
             <div className="links-page-img">
-              <img src={headshot} alt="Durgesh" className="links-page-image" />
+              <img src={headshot} alt="QTS-Engineer" className="links-page-image" />
             </div>
-            <h4>Durgesh</h4>
+            <h4>QTS-Engineer</h4>
             <p>@yodkwtf</p>
           </article>
 

@@ -6,7 +6,7 @@ const ContactPage = () => {
   return (
     <>
       <Head
-        title={'Durgesh Chaudhary - Software Developer | Contact'}
+        title={'QTS-Engineer - Software Developer | Contact'}
         description={`Please find my contact details below. Find me on any of the socials mentioned or send me a direct message via the form below. Alternatively, you can also send me an email and I'll get back to you within 24 hours.`}
       />
 
@@ -26,8 +26,8 @@ const ContactPage = () => {
               get back to you within 24 hours.
               <br />
               Alternatively, you can also drop an email at{' '}
-              <a href="mailto:48durgesh.chaudhary@gmail.com" title="Email Me">
-                48durgesh.chaudhary@gmail.com
+              <a href="mailto:idea.ict.dev@gmail.com" title="Email Me">
+                idea.ict.dev@gmail.com
               </a>
             </p>
           </div>
