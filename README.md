@@ -8,11 +8,6 @@ The website also has a Dark Mode which uses localStorage API to save user's pref
 
 Overall, this is a powerful and versatile ReactJS portfolio website that makes it easy to showcase a developer's skills and projects. It offers easy customization and deployment options, making it an ideal choice for developers looking to create a professional online presence.
 
-## Preview
-
-See it live at [yodkwtf.com](https://yodkwtf.com)
-
-![yodkwtf.com](./public/covers/home.png)
 
 ## Installation
 
