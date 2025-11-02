@@ -23,8 +23,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "postbuild": "echo 'postbuild skipped' || true"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -53,8 +52,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
-    "cross-env": "^7.0.3",
-    "react-snap": "^1.23.0"
+    "cross-env": "^7.0.3"
   },
   "engines": {
     "node": "18.x"
